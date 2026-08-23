@@ -1,30 +1,7 @@
-# Ke Guo — Academic Homepage
+# Ke Guo's Homepage
 
-A lightweight, responsive academic homepage built for GitHub Pages. No build step or framework is required.
+Personal academic homepage based on the same Jekyll template as [quchangle1.github.io](https://github.com/quchangle1/quchangle1.github.io).
 
-## Preview locally
+The main page content lives in [`_pages/about.md`](_pages/about.md). Personal information and sidebar links are configured in [`_config.yml`](_config.yml).
 
-From this folder, run:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open `http://localhost:8000`.
-
-## Publish at `imgkkk574.github.io`
-
-1. Create a public GitHub repository named `imgkkk574.github.io`.
-2. Push the contents of this folder to the repository's `main` branch.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**, choose `main` and `/ (root)`, then save.
-5. The site will appear at `https://imgkkk574.github.io/` after GitHub finishes publishing.
-
-## Edit content
-
-- Personal copy, news, publications, and links: `index.html`
-- Colors, typography, and layout: `styles.css`
-- Menu, scroll reveal, and active navigation: `script.js`
-- Profile photo: `assets/ke-guo.jpg`
-
-The current biographical and publication details were compiled from the supplied public Google Scholar profile and linked public paper pages. Review the wording before publishing, especially dates and affiliation details.
+To publish, push this repository to `imgkkk574/imgkkk574.github.io` and enable GitHub Pages for the `main` branch.
