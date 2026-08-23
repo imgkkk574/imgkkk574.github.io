@@ -48,6 +48,11 @@ My research focuses on generative recommendation and Large Language Models for R
   **AAAI 2024** \| [Paper](https://doi.org/10.1609/aaai.v38i20.30261) \| [Code](https://github.com/zhangyuuao/Light_Pollution_CAGAN)
 
 
+# 📖 Educations
+- *2025.08 - Present*, Ph.D. student. Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2021.09 - 2025.06*, Bachelor in Artificial Intelligence. Gaoling School of Artificial Intelligence, Renmin University of China.
+
+
 # 🎖 Honors and Awards
 - *2023–2024* Outstanding Special Scholarship (JD Scholarship), Renmin University of China.
 - *2021–2022, 2022–2023* Outstanding Third-Class Scholarship, Renmin University of China.
@@ -55,11 +60,6 @@ My research focuses on generative recommendation and Large Language Models for R
 - *2022–2023, 2023–2024* Outstanding Student Cadre, Renmin University of China.
 - *2021–2022* Merit Student, Renmin University of China.
 - *2025* Outstanding Graduate, Renmin University of China.
-
-
-# 📖 Educations
-- *2025.08 - Present*, Ph.D. student. Gaoling School of Artificial Intelligence, Renmin University of China.
-- *2021.09 - 2025.06*, Bachelor in Artificial Intelligence. Gaoling School of Artificial Intelligence, Renmin University of China.
 
 
 # 💻 Internships
