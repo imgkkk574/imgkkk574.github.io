@@ -10,14 +10,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a researcher at the Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) in the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn/)). My research interests include Recommender Systems, Information Retrieval, and Machine Learning, with a recent focus on live streaming recommendation and multimodal user modeling.
+I am a second-year Ph.D. student at the Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) in the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn/)), supervised by Assoc. Prof. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=en) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ).
+
+My research focuses on generative recommendation and Large Language Models for Recommendation (LLM4Rec).
 
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉 We released **[KuaiLive-M3](https://imgkkk574.github.io/KuaiLive-M3/)**, a multi-modal, multi-domain, and multi-feedback dataset for live streaming recommendation.
 - *2026.04*: &nbsp;🎉 Our paper “KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation” was accepted by **SIGIR 2026**!
-- *2026.01*: &nbsp;🎉 Our paper “Room Matters: Dynamic Room-level Collaboration Information Modeling for Live Streaming Recommendation” was accepted by **WWW 2026**!
-- *2024.03*: &nbsp;🎉 Our paper “Causally Aware Generative Adversarial Networks for Light Pollution Control” was accepted by **AAAI 2024**!
+- *2026.01*: &nbsp;🎉 My first-author paper “Room Matters: Dynamic Room-level Collaboration Information Modeling for Live Streaming Recommendation” was accepted by **WWW 2026**!
+- *2023.12*: &nbsp;🎉 Our paper “Causally Aware Generative Adversarial Networks for Light Pollution Control” was accepted by **AAAI 2024**!
 
 
 # 📝 Publications
@@ -44,6 +46,21 @@ I am a researcher at the Intelligent Information Retrieval Lab ([IIR Lab](https:
   Yuyao Zhang, **Ke Guo**, Xiao Zhou
 
   **AAAI 2024** \| [Paper](https://doi.org/10.1609/aaai.v38i20.30261) \| [Code](https://github.com/zhangyuuao/Light_Pollution_CAGAN)
+
+
+# 🎖 Honors and Awards
+- *2023–2024* Outstanding Special Scholarship (JD Scholarship), Renmin University of China.
+- *2021–2022, 2022–2023* Outstanding Third-Class Scholarship, Renmin University of China.
+- *2023–2024* Outstanding Student League Cadre, Renmin University of China.
+- *2022–2023, 2023–2024* Outstanding Student Cadre, Renmin University of China.
+- *2022–2023, 2023–2024* Outstanding Student Cadre Scholarship, Renmin University of China.
+- *2021–2022* Merit Student, Renmin University of China.
+- *2025* Outstanding Graduate, Renmin University of China.
+
+
+# 📖 Educations
+- *2025.08 - Present*, Ph.D. student. Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2021.09 - 2025.06*, Bachelor in Artificial Intelligence. Gaoling School of Artificial Intelligence, Renmin University of China.
 
 
 # 🔗 Links

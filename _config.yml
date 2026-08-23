@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ke Guo"
   avatar           : "images/avatar.jpg"
-  bio              : "Researcher at Gaoling School of Artificial Intelligence, Renmin University of China, focusing on Recommender Systems and Information Retrieval."
+  bio              : "Ph.D. student at Gaoling School of Artificial Intelligence, Renmin University of China, focusing on generative recommendation and LLM4Rec."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
