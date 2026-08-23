@@ -53,7 +53,6 @@ My research focuses on generative recommendation and Large Language Models for R
 - *2021–2022, 2022–2023* Outstanding Third-Class Scholarship, Renmin University of China.
 - *2023–2024* Outstanding Student League Cadre, Renmin University of China.
 - *2022–2023, 2023–2024* Outstanding Student Cadre, Renmin University of China.
-- *2022–2023, 2023–2024* Outstanding Student Cadre Scholarship, Renmin University of China.
 - *2021–2022* Merit Student, Renmin University of China.
 - *2025* Outstanding Graduate, Renmin University of China.
 
