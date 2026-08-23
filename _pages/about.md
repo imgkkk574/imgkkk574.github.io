@@ -63,6 +63,10 @@ My research focuses on generative recommendation and Large Language Models for R
 - *2021.09 - 2025.06*, Bachelor in Artificial Intelligence. Gaoling School of Artificial Intelligence, Renmin University of China.
 
 
+# 💻 Internships
+- [Kuaishou Technology](https://www.kuaishou.com/), Live Streaming Recommendation Department, focusing on live streaming recommendation.
+
+
 # 🔗 Links
 - [Google Scholar](https://scholar.google.com/citations?user=Oao6JW0AAAAJ&hl=en)
 - [GitHub](https://github.com/imgkkk574)
