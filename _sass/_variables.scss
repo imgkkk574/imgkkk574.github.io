@@ -56,7 +56,7 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$paper-color                : #f3ead8;
+$paper-color                : #f5f1e8;
 $ruc-red                    : #ae0b2a; // RGB(174, 11, 42)
 
 $body-color                 : $paper-color;
@@ -100,8 +100,8 @@ $xing-color                 : #006567;
 $link-color                 : $ruc-red;
 $link-color-hover           : mix(#000, $link-color, 15%);
 $link-color-visited         : $ruc-red;
-$masthead-link-color        : $ruc-red;
-$masthead-link-color-hover  : mix(#000, $ruc-red, 15%);
+$masthead-link-color        : $gray;
+$masthead-link-color-hover  : $ruc-red;
 
 
 /*
