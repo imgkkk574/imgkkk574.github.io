@@ -94,12 +94,9 @@
   img {
     max-width: 175px;
     min-width: 75px;
+    padding: 4px;
+    border: 2px solid $ruc-red;
     border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
   }
 }
 

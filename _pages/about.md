@@ -10,6 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 😸 About Me
+
 I am a second-year Ph.D. student at the Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) in the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn/)), supervised by Assoc. Prof. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=en) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ).
 
 My research focuses on generative recommendation and Large Language Models for Recommendation (LLM4Rec).
