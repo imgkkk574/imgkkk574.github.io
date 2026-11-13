@@ -18,9 +18,10 @@ My research focuses on generative recommendation and Large Language Models for R
 
 
 # 📣 News
+- *2026.11*: &nbsp;🥳 Our paper “**[KuaiLive-M3](https://imgkkk574.github.io/KuaiLive-M3/)**, a multi-modal, multi-domain, and multi-feedback dataset for live streaming recommendation” was accepted by **KDD 2027**!
 - *2026.07*: &nbsp;🥳 We released **[KuaiLive-M3](https://imgkkk574.github.io/KuaiLive-M3/)**, a multi-modal, multi-domain, and multi-feedback dataset for live streaming recommendation.
 - *2026.04*: &nbsp;🥳 Our paper “KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation” was accepted by **SIGIR 2026**!
-- *2026.01*: &nbsp;🥳 My first-author paper “Room Matters: Dynamic Room-level Collaboration Information Modeling for Live Streaming Recommendation” was accepted by **WWW 2026**!
+- *2026.01*: &nbsp;🥳 Our paper “Room Matters: Dynamic Room-level Collaboration Information Modeling for Live Streaming Recommendation” was accepted by **WWW 2026**!
 - *2023.12*: &nbsp;🥳 Our paper “Causally Aware Generative Adversarial Networks for Light Pollution Control” was accepted by **AAAI 2024**!
 
 
@@ -29,7 +30,7 @@ My research focuses on generative recommendation and Large Language Models for R
 
   **Ke Guo**, Changle Qu, Jiayaqi Cheng, Xiao Zhang, Shijun Wang, Xiaoyu Zhang, Xueliang Wang, Le Zhang, Lantao Hu, Jun Xu
 
-  **Preprint, 2026** \| [Paper](https://arxiv.org/abs/2607.24862) \| [Project](https://imgkkk574.github.io/KuaiLive-M3/) \| [Code](https://github.com/imgkkk574/KuaiLive-M3)
+  **KDD, 2027** \| [Paper](https://arxiv.org/abs/2607.24862) \| [Project](https://imgkkk574.github.io/KuaiLive-M3/) \| [Code](https://github.com/imgkkk574/KuaiLive-M3)
 
 - **KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation**
 
