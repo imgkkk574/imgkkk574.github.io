@@ -30,7 +30,7 @@ My research focuses on generative recommendation and Large Language Models for R
 
   **Ke Guo**, Changle Qu, Jiayaqi Cheng, Xiao Zhang, Shijun Wang, Xiaoyu Zhang, Xueliang Wang, Le Zhang, Lantao Hu, Jun Xu
 
-  **KDD, 2027** \| [Paper](https://arxiv.org/abs/2607.24862) \| [Project](https://imgkkk574.github.io/KuaiLive-M3/) \| [Code](https://github.com/imgkkk574/KuaiLive-M3)
+  **KDD 2027** \| [Paper](https://arxiv.org/abs/2607.24862) \| [Project](https://imgkkk574.github.io/KuaiLive-M3/) \| [Code](https://github.com/imgkkk574/KuaiLive-M3)
 
 - **KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation**
 
